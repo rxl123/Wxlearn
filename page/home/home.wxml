@@ -1,0 +1,3 @@
+<!--page/home/home.wxml-->
+<text class="title">111</text>
+<button size="mini">提交</button>
